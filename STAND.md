@@ -4,6 +4,8 @@
 
 ## Was gilt
 
+- Öffentliches Repo: https://github.com/1337Anton/antons-antislop (seit 20.10.2026, vorher privat
+  als ohne-ki-spuren). Ordner und Skill heißen weiter `ohne-ki-spuren`.
 - Der Skill verbindet die eigene Prüfliste (erster Commit) mit unslop 1.8.4 von Jean-Luc Winkler
   (MIT). Einzelheiten in `CHANGELOG.md`.
 - Bearbeitet wird nur hier im Projekt. `./installieren.sh` kopiert den Stand nach
@@ -17,8 +19,6 @@
 
 ## Offen
 
-- Das GitHub-Repo ist privat. Zum Teilen mit Freunden entweder öffentlich schalten oder die ZIP
-  weitergeben.
 - Das Plugin „unslop“ ist in der Claude-App noch aktiv und überschneidet sich mit diesem Skill.
   Abschalten, sobald die neue Fassung sich bewährt hat.
 - Testfälle: 1, 2, 6 und 12 bestehen mit der neuen SKILL.md (20.10.2026). Die übrigen Fälle sind

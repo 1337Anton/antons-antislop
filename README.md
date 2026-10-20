@@ -23,7 +23,7 @@ nach KI“, „mach das menschlicher“, „prüfe den Text auf KI-Muster“ ode
 **Claude Code** (Terminal oder Desktop-App, Reiter Code):
 
 ```bash
-git clone <ADRESSE-DIESES-REPOS> ~/Projekte/ohne-ki-spuren
+git clone https://github.com/1337Anton/antons-antislop.git ~/Projekte/ohne-ki-spuren
 ```
 
 ```bash
@@ -34,7 +34,9 @@ Das Skript kopiert den Skill nach `~/.claude/skills/ohne-ki-spuren`. Ohne Git re
 Ordner mit `SKILL.md`, `references/` und `evals/` dorthin zu kopieren.
 
 **Claude-App und claude.ai**: Das Skript baut außerdem `ohne-ki-spuren.zip`. Die Datei in den
-Einstellungen unter Skills hochladen.
+Einstellungen unter Skills hochladen. Ohne Terminal geht es auch so: auf GitHub unter „Code“ die
+ZIP herunterladen, entpacken, den Inhalt des Ordners neu als ZIP packen (`SKILL.md` muss ganz
+oben liegen) und hochladen.
 
 Wer schon den Skill „unslop“ installiert hat, sollte ihn abschalten, weil dieser Skill ihn
 enthält und sich beide sonst gegenseitig ins Wort fallen.
