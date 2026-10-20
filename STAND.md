@@ -21,4 +21,5 @@
   weitergeben.
 - Das Plugin „unslop“ ist in der Claude-App noch aktiv und überschneidet sich mit diesem Skill.
   Abschalten, sobald die neue Fassung sich bewährt hat.
-- Testfälle noch nicht gegen die neue SKILL.md durchgespielt.
+- Testfälle: 1, 2, 6 und 12 bestehen mit der neuen SKILL.md (20.10.2026). Die übrigen Fälle sind
+  noch nicht durchgespielt.
