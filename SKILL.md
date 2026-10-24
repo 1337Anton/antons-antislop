@@ -173,6 +173,11 @@ Die häufigsten deutschen Fälle zum Merken:
 - **Leere Anhängsel**: „…, was das Engagement unterstreicht“, „…, der Laden liegt direkt dort.“,
   „Eine Auswahl, das Sortiment ist größer.“ Ein Halbsatz nach Komma, der den Satz rund machen
   soll, wird gestrichen oder durch eine Tatsache ersetzt. Die Auskunft knapp geben und aufhören.
+  Dazu gehört der Verweis, der hinten angeklebt wird: „Aufträge nehme ich über mein Gewerbe an,
+  dort stehen die Leistungen.“ Der Link oder die Kachel daneben zeigt das schon; der Satz endet
+  nach „an“. Bleiben darf ein Halbsatz mit eigener Tatsache, die sonst fehlt („Wir liefern
+  dienstags, bei Bestellung bis Montag 12 Uhr.“). Prüfweg: den Teil nach dem letzten Komma
+  abdecken. Fehlt dem Leser dann nichts, fällt er weg.
 - **Nachsätze ohne Neues**: ein Satz, der wiederholt, was Bild oder Absatz schon zeigen. Pro Bild
   oder Absatz eine Aussage, der Rest fällt weg.
 - **Synonym-Karussell**: „Entwickler … Ingenieure … Praktiker“ im selben Absatz. Menschen

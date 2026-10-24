@@ -1,5 +1,11 @@
 # Änderungen
 
+## 2.0.1 (24.10.2026)
+
+- Leere Anhängsel: angeklebter Verweis („…, dort stehen die Leistungen“) als Beispiel mit
+  Gegenbeispiel und Prüfweg ergänzt. Anlass war ein Satz auf antonrave.de, den die Prüfung
+  durchgelassen hatte.
+
 ## 2.0.0 (20.10.2026)
 
 Zusammenführung der eigenen Prüfliste „ohne-ki-spuren“ mit dem Skill „unslop“ 1.8.4 von
