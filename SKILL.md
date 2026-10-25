@@ -118,7 +118,12 @@ Die häufigsten deutschen Fälle zum Merken:
   Tages“, „In der heutigen schnelllebigen Welt“, „Werfen wir einen Blick auf“.
 - **Vage Quellen**: „Experten sagen“, „Studien zeigen“ ohne Beleg.
 - **Chat-Reste**: „Ich hoffe, das hilft“, „Sag Bescheid, wenn …“, „Gerne helfe ich weiter“,
-  „Möchtest du, dass ich …?“ am Ende eines eigenständigen Textes.
+  „Möchtest du, dass ich …?“ am Ende eines eigenständigen Textes. Ebenso die übertriebene
+  Höflichkeit am Mailanfang: „Ich hoffe, diese E-Mail erreicht Sie wohlbehalten“,
+  „Selbstverständlich unterstütze ich Sie gerne bei …“. Eine deutsche Geschäftsmail fängt mit
+  der Sache an. Die Anrede („Hallo Frau Kehl,“) und der Gruß bleiben.
+- **Du und Sie gemischt**: „Ich hoffe, … erreicht Sie …“ und dann „melde dich gern“ im selben
+  Text. Ein klares Muster, die Anrede durchhalten.
 - **Beschriftungen im Datenbankstil**: „Minze, Blätter“, „Batch, 1 Liter“. So schreiben, wie Leute
   aus dem Fach es sagen: „Minzblätter“.
 
@@ -130,7 +135,10 @@ Die häufigsten deutschen Fälle zum Merken:
   („9-13 Uhr“). Ausnahmen: Code, Zitate, Texte Dritter, und eine Schreibprobe des Nutzers, die
   Striche bewusst nutzt. Im Prüfmodus ist ein einzelner, korrekt gesetzter Halbgeviertstrich in
   fremdem Text nur ein schwaches Signal; ein Geviertstrich ohne Leerzeichen in deutschem Text ist
-  ein klares Muster, auf Folien jeder Strich.
+  ein klares Muster, auf der Folie selbst schon ein einzelner. Sprechernotizen gelten als
+  Fließtext, und der Strich in einer Spanne („9–13 Uhr“ in fremdem Text) ist kein Gedankenstrich.
+- Doppelter Bindestrich (`--`) als Gedankenstrich ist auch in fremdem Text ein Muster. Durch
+  Komma, Punkt, Klammer oder Doppelpunkt ersetzen.
 - Keine Mittelpunkte (·) als Trenner, auch nicht in Seitentiteln. Im Titel einen Bindestrich mit
   Leerzeichen („Pilze in Heidelberg - Feinkost Müller“), sonst Komma.
 - Keine Pfeile (→) als Satzersatz im Fließtext, keine Emojis als Aufzählungszeichen.
@@ -163,7 +171,8 @@ Die häufigsten deutschen Fälle zum Merken:
   vier nehmen, oder einen ganzen Satz bauen. Das gilt auch im Großen: ein Absatz aus drei gleichen
   Beispielen, drei kurze Aussagen mit Moral. Drei nur, wenn der Inhalt wirklich drei Teile hat.
 - **Tragende Metaphern**: „das trägt“, „zahlt sich aus“, „greift“, „steht und fällt mit“,
-  „Rückgrat“, „Fundament“, „Herzstück“, englisch "pays off", "backbone", "cornerstone". Sie klingen
+  „Rückgrat“, „Fundament“, „Herzstück“, englisch "pays off", "backbone", "cornerstone",
+  "underpins". Sie klingen
   entschieden und behaupten nichts Prüfbares. Durch das einfache Verb plus Kriterium ersetzen oder
   die fehlende Messgröße melden. Wörtliche Verwendung bleibt („die Wand trägt das Dach“).
 - **Ersatz für „ist“ und „hat“**: „dient als“, „fungiert als“, „bietet“, "serves as", "boasts"
@@ -226,7 +235,8 @@ einem Handelnden und einem Verb aus, Modelle von Abstraktionen und Schablonen. B
   Fachregister, in denen der gehobene Begriff der genaue ist (Recht, Sicherheit, Medizin).
 - **Ein Gedanke pro Satz, ein Nebensatz als Regel**: Ketten aus „was“, „wobei“, „welches“ klingen
   nach Füllmaterial. Teilen, und ein Logikwort (weil, aber, deshalb) trägt die Verbindung statt
-  „zudem“ und „darüber hinaus“.
+  „zudem“ und „darüber hinaus“. Ein angehängtes „wobei …“, das eine zweite Aussage nachschiebt,
+  ist das häufigste Beispiel.
 - **Die nächste Frage des Lesers beantworten**: Ein Mensch lässt auf die Behauptung die Folge
   folgen („Kostet 40 € mehr. Dafür entfällt der zweite Termin.“), ein Modell sagt dasselbe noch
   einmal anders. Bringt der nächste Satz nichts Neues, fällt er weg.
@@ -290,7 +300,9 @@ Stimme (siehe Register).
   Hintergrund. Die Entscheidung zuerst, dann die eine Tatsache, die ihm fehlt, und der Grund, der
   seine Zustimmung ändern könnte.
 - **Gezählte Listen ohne Grund**: „Drei zentrale Erkenntnisse“, „5 Dinge, die du wissen musst“.
-  Nur zählen, wenn die Zahl eine Information ist.
+  Nur zählen, wenn die Zahl eine Information ist. „Der Export enthält Name, Datum und Preis. Die
+  drei Felder sind Pflichtfelder.“ bleibt: Dort hat der Inhalt drei Teile, und die Zahl sagt
+  etwas.
 - **Ausgewogenheit als Schablone**: „Obwohl X vielversprechend ist, bleibt Y eine
   Herausforderung“, „Einerseits … andererseits … Letztlich kommt es darauf an“. Den echten
   Zielkonflikt nennen oder Stellung beziehen. Gutachten und Vergleiche, die beide Seiten brauchen,
@@ -299,7 +311,10 @@ Stimme (siehe Register).
   der Schluss fasst die Einleitung zusammen. Ankündigung streichen, mit dem letzten neuen Punkt
   enden.
 - **Schein-Breite**: „Ob Handwerksbetrieb oder DAX-Konzern“, „Von der Buchhaltung bis zur Cloud“.
-  Die tatsächliche Zielgruppe oder die tatsächlichen Themen nennen.
+  Die tatsächliche Zielgruppe oder die tatsächlichen Themen nennen. Erkennbar daran, dass die
+  beiden Enden Sachgebiete oder Kundentypen sind, die „alles“ meinen. Eine echte Spanne aus
+  Uhrzeiten, Tagen, Zahlen oder Orten („von Samstag, 22:00 Uhr bis Sonntag, 6:00 Uhr“, „11:00
+  bis 11:30 Uhr“) ist keine Schein-Breite und wird nie gemeldet.
 - **Gleiche Form über mehrere Texte**: Bei Serien (Posts, Newsletter) das Gerüst mit den letzten
   zwei, drei Stücken vergleichen. Wiederholen sich Einstieg, Bogen und Schluss, entsteht ein neues
   Erkennungsmuster. Pro Stück ein oder zwei Mittel wählen und wechseln.
@@ -354,7 +369,9 @@ Eigene Texte des Skills folgen in jedem Register der strengen Strichregel.
 ¹ Begriffe mit echter technischer Bedeutung nicht melden (robust, Ökosystem, nahtlos bei
 Schnittstellen).
 ² Wissenschaft zusätzlich: Verben stärker als der Beleg („beweist“ statt „zeigt“), Floskeln in
-Beitragslisten, Zitatstapel, „neuartig“-Aufblähung. Fehlt ein Beleg, die Lücke melden, die Aussage
+Beitragslisten, Zitatstapel, „neuartig“-Aufblähung, leere Verstärker („extensive“, „numerous“,
+„groundbreaking“, „significantly“ ohne Test). Vorsichtige Formulierungen wie „the data suggest“,
+„may“ sind dort Genauigkeit und werden nicht gemeldet. Fehlt ein Beleg, die Lücke melden, die Aussage
 nicht still abschwächen. Hier ist Genauigkeit ohne Persönlichkeit die menschliche Stimme.
 
 ### Folien
@@ -364,6 +381,10 @@ Stimme, umgangssprachliche Wendungen wirken nachlässig.
 
 - Die Folge der Titel ist die Zusammenfassung des Vortrags und muss allein verständlich sein. Eine
   Kernaussage pro Folie.
+- Ein Titel, der nur das Thema nennt („Die Anbieter“, „Kosten“), sagt nicht, was die Folie
+  leistet. Melden und nach der Rolle fragen (Vergleich, Empfehlung, Übersicht), keine erfinden.
+- Anreißer („Ein Blick auf unsere Ausgangslage“, „Was die Zahlen uns verraten“) und Fragen
+  („Wohin geht die Reise?“) sind als Folientitel ebenso falsch wie in Prosa.
 - Substantive statt Umgangssprache: „Funktionsweise“ statt „So funktioniert es“. Ein sachliches
   Passiv ist hier in Ordnung.
 - Keine effekthaschenden Einzeiler, keine tragenden Metaphern als Urteil („Das Konzept trägt“),
@@ -373,7 +394,7 @@ Stimme, umgangssprachliche Wendungen wirken nachlässig.
 - Keine vorgeführten Tugenden („offen, ehrlich und auf Augenhöhe“).
 - Notizen und Moderationshinweise gehören in die Sprechernotizen, Stempel wie „Entwurf“ oder
   „Vertraulich“ nur auf Wunsch.
-- Null Gedankenstriche.
+- Null Gedankenstriche auf der Folie. In den Sprechernotizen gilt die Regel für Fließtext.
 
 Beispiele in `references/pattern-catalog.md`, Abschnitte 18 und 20.
 
@@ -424,28 +445,37 @@ der Inhalt es wirklich verlangt (eine echte Aufzählung von genau drei Dingen, C
   durchgerutschte Quellenmarken (`oaicite`, `turn0search0`, `utm_source=chatgpt.com`), offene
   Platzhalter (`[Name einsetzen]`), vage Quellen ohne Beleg, erfundene Fakten, Denk- und
   Prompt-Echos („Gehen wir das Schritt für Schritt durch“, „Du fragst also, ob …“), Vermutungen
-  als Hintergrund getarnt („vermutlich wuchs sie in … auf“), interne Notizen auf einer Folie.
+  als Hintergrund getarnt („vermutlich wuchs sie in … auf“), interne Notizen auf einer Folie,
+  die übertriebene Höflichkeitsformel am Mailanfang („Selbstverständlich unterstütze ich Sie
+  gerne …“, „Ich hoffe, diese E-Mail erreicht Sie wohlbehalten“).
 - **P1, klares KI-Muster** (vor der Veröffentlichung beheben, je nach Register): Wortlistentreffer
   über der Schwelle, Kontrastfloskeln und Dreierreihen außerhalb der erlaubten Fälle,
   Floskel-Übergänge und -Einstiege, zu viel Fettdruck, Gedankenstriche in eigenen Texten,
   gestapelte Einschränkungen, aufgeblähte Bedeutung, Doppelpunkt-Bühne, Schein-Einsicht,
   Spruch-Pointen, Phantom-Einwände, inszenierte Betonung, Medienleisten, Dinge, die handeln,
   Ausgewogenheit als Schablone, Slogan-Takt ab drei pro Dokument, Anreißer-Titel, gemischte
-  Zahlenformate, Erkenntnis-Coda und Epilog, Mittelpunkte und Pfeile als Ersatzzeichen, die
-  Gestaltungsmuster oben.
+  Zahlenformate, Erkenntnis-Coda und Epilog, vorweggeschickte Vorgeschichte, tragende Metaphern,
+  Du und Sie gemischt, Mittelpunkte und Pfeile als Ersatzzeichen, die Gestaltungsmuster oben.
+  Auf Folien: Umgangssprache, Satz- und Fragetitel, Titel ohne Rolle, eine Titelfolge, die
+  allein keinen Zusammenhang ergibt, Befehlston, ungewünschte Stempel. In Wissenschaft: Verben
+  stärker als der Beleg, leere Verstärker, „neuartig“.
 - **P2, Feinschliff** (wenn Zeit ist): gleichförmige Absätze, Lesersteuerung, gleiche
   Satzanfänge, Text über sich selbst, nacherzählende Antworten, vage Zusammenhänge, eingeklammerte
   Absicherung, gezählte Listen, Vorschau und Rückblick, „ist real“, unbelegte Absolutheiten in
   Werbetext („immer“, „alle“, „niemand“), Überschriften über zwei Sätzen, „dient als“,
   allgemeine Schlüsse, Substantivierungen und „es wurde“ im Fließtext, Formatfehler bei
-  Prozent, Komma und Datum, Steckbrief-Einführungen in Geschichten, Datenbank-Beschriftungen.
+  Prozent, Komma und Datum, Steckbrief-Einführungen in Geschichten, Geschichten, die alles
+  auflösen und die Spannung gleichmäßig verteilen, Nebensatzketten mit „wobei“, Schein-Breite,
+  doppelter Bindestrich als Gedankenstrich, Datenbank-Beschriftungen.
 
 Schnelldurchgang: P0 und P1. Vollprüfung: alle drei.
 
 **Allein schwach**: Ein einzelner Strich in fremdem Text, eine Einschränkung, ein Passivsatz, ein
-Synonymwechsel, eine Spanne „von X bis Y“, gerade Anführungszeichen in deutschem Text: Das kommt
-bei Menschen ständig vor und wird nur gemeldet, wenn sich andere Muster an derselben Stelle häufen
-und gemeinsam Füllfunktion haben. Fall 12 in `evals/cases.md` muss sauber bleiben.
+Synonymwechsel, gerade Anführungszeichen in deutschem Text: Das kommt bei Menschen ständig vor
+und wird nur gemeldet, wenn sich andere Muster an derselben Stelle häufen und gemeinsam
+Füllfunktion haben. Fall 12 in `evals/cases.md` muss sauber bleiben. Eine echte Spanne aus Zeit,
+Zahl oder Ort ist nicht einmal ein schwaches Signal (Fälle 23 und 25), Schein-Breite aus
+Sachgebieten dagegen ein eigener Fund (Fall 22).
 
 ## Leitplanken
 

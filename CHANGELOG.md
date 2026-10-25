@@ -1,5 +1,21 @@
 # Änderungen
 
+## 2.0.2 (25.10.2026)
+
+Alle Testfälle in `evals/cases.md` durchgespielt; die Lücken, an denen Fälle scheiterten, sind
+geschlossen.
+
+- Mail: übertriebene Höflichkeitsformel am Anfang als Chat-Rest (P0), Du und Sie gemischt (P1).
+- Satzzeichen: doppelter Bindestrich als Gedankenstrich (P2); Sprechernotizen gelten als
+  Fließtext, Spannen-Striche sind keine Gedankenstriche.
+- Folien: Titel, der nur das Thema nennt, Anreißer und Fragen als Folientitel; Schweregrade für
+  Umgangssprache, Befehlston und Stempel auf Folien.
+- Spannen: echte Spanne aus Zeit, Zahl oder Ort wird nie gemeldet, Schein-Breite aus
+  Sachgebieten ist ein eigener Fund.
+- Wissenschaft: leere Verstärker und vorsichtige Formulierungen, die bleiben.
+- "underpins" bei den tragenden Metaphern, Gegenbeispiel für eine sinnvoll gezählte Liste,
+  „wobei“-Ketten, fehlende Einträge in den Schweregraden nachgetragen.
+
 ## 2.0.1 (24.10.2026)
 
 - Leere Anhängsel: angeklebter Verweis („…, dort stehen die Leistungen“) als Beispiel mit

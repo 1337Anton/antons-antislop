@@ -1,6 +1,6 @@
 # Stand
 
-20.10.2026
+25.10.2026
 
 ## Was gilt
 
@@ -21,5 +21,31 @@
 
 - Das Plugin „unslop“ ist in der Claude-App noch aktiv und überschneidet sich mit diesem Skill.
   Abschalten, sobald die neue Fassung sich bewährt hat.
-- Testfälle: 1, 2, 6 und 12 bestehen mit der neuen SKILL.md (20.10.2026). Die übrigen Fälle sind
-  noch nicht durchgespielt.
+- Keine weiteren offenen Testfälle. Ergebnis der Durchsicht steht unten.
+
+## Testfälle (25.10.2026, SKILL.md 2.0.2)
+
+Alle 25 Fälle aus `evals/cases.md` gegen die Regeln gelesen, nicht durch einen getrennten
+Prüflauf. Fälle 1, 2, 6 und 12 bestanden schon am 20.10.2026 und brechen durch die Änderungen
+nicht (keine neue Regel greift dort).
+
+Mit der alten Fassung bestanden: 8, 10, 11, 13, 14, 15, 17, 20, 21, 25. Gescheitert oder knapp:
+
+- 3 (Folientitel): „Die Anbieter“ ist ein Substantiv und hätte die Regel „Überschrift als
+  Bezeichnung“ bestanden; Titel ohne Rolle fehlte. Schweregrade für Satz- und Fragetitel fehlten.
+- 4 (Folie): Umgangssprache, Befehlston und Stempel hatten keinen Schweregrad.
+- 5 (Nominalstil): „wobei“-Kette ohne Schweregrad.
+- 7 (Abstract): leere Verstärker und Schweregrad für Überbehauptung fehlten.
+- 9 (Geschichte): vorweggeschickte Vorgeschichte und „alles aufgelöst“ ohne Schweregrad.
+- 16 (drei Felder): bestand knapp, jetzt mit Gegenbeispiel abgesichert.
+- 18 (Folie und Notizen): Notizen waren keinem Register zugeordnet. Abweichung vom Fall: Ein
+  Halbgeviertstrich auf der Folie selbst wird nach Antons Regel weiter gemeldet; der Fall
+  enthält dort nur einen Geviertstrich und besteht.
+- 19 ("underpins"): fehlte bei den tragenden Metaphern, die ohne Schweregrad waren.
+- 22 (Mail-Sammelfall): Du/Sie-Wechsel stand nur im Katalog, Schein-Breite war unter „allein
+  schwach“ eingeordnet und wäre durchgerutscht.
+- 23 (Höflichkeitsformel): stand nicht in SKILL.md, nur im Katalog.
+- 24 (`--`): stand nicht in SKILL.md, nur im Katalog.
+
+Mit 2.0.2 bestehen alle 25 Fälle. Ein echter Prüflauf mit frischer Sitzung je Fall wäre die
+nächste Gegenprobe.
