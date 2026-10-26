@@ -146,7 +146,8 @@ Die häufigsten deutschen Fälle zum Merken:
 - Ausrufezeichen höchstens eins pro 1.000 Wörter. Semikolon und Doppelpunkt ruhig nutzen, aber
   den Doppelpunkt nicht als Bühne (siehe Ebene 2).
 - Deutsche Formate: „deutsche Anführungszeichen“, „50 %“ mit Leerzeichen, „3,2 Sekunden“,
-  „10.000 Nutzer“, „24. August 2026“, „40 €“. Zwei Schreibweisen im selben Dokument sind ein klares
+  „10.000 Nutzer“, „24. August 2026“. Währungszeichen ohne Leerzeichen direkt an die Zahl:
+  „40€“, „3$“, „1,2 Mio.€“. Zwei Schreibweisen im selben Dokument sind ein klares
   Muster.
 
 ## Ebene 2: Satz und Rhythmus
@@ -238,7 +239,7 @@ einem Handelnden und einem Verb aus, Modelle von Abstraktionen und Schablonen. B
   „zudem“ und „darüber hinaus“. Ein angehängtes „wobei …“, das eine zweite Aussage nachschiebt,
   ist das häufigste Beispiel.
 - **Die nächste Frage des Lesers beantworten**: Ein Mensch lässt auf die Behauptung die Folge
-  folgen („Kostet 40 € mehr. Dafür entfällt der zweite Termin.“), ein Modell sagt dasselbe noch
+  folgen („Kostet 40€ mehr. Dafür entfällt der zweite Termin.“), ein Modell sagt dasselbe noch
   einmal anders. Bringt der nächste Satz nichts Neues, fällt er weg.
 
 Diese Regeln gelten für Fließtext. Auf Folien ist der knappe Nominalstil die professionelle

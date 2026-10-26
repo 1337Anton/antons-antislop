@@ -239,10 +239,10 @@ EXPECTED:
 ## Case 21 – Clean German microformats (profile: docs) — MUST STAY CLEAN
 
 INPUT:
-> „Version 2“ ging am 24. August 2026 live – nach 3,2 Sekunden war der Export fertig, 10.000 Datensätze waren geladen, und das Team sparte 50 % der Prüfzeit sowie 40 € pro Vorgang.
+> „Version 2“ ging am 24. August 2026 live – nach 3,2 Sekunden war der Export fertig, 10.000 Datensätze waren geladen, und das Team sparte 50 % der Prüfzeit sowie 40€ pro Vorgang.
 
 EXPECTED:
-- No findings. Correct German quotation marks, a correctly spaced en dash, decimal comma, thousands separator, percent spacing, date format, and currency after the amount must stay clean.
+- No findings. Correct German quotation marks, a correctly spaced en dash, decimal comma, thousands separator, percent spacing, date format, and currency directly after the amount must stay clean.
 
 ## Case 22 – German special cases cluster (profile: email)
 
@@ -282,4 +282,4 @@ INPUT:
 > Die Kältehalle bleibt von Samstag, 10. Oktober 2026, 22:00 Uhr bis Sonntag, 11. Oktober 2026, 6:00 Uhr geschlossen. In diesem Fenster fahren die Förderbänder nicht.
 
 EXPECTED:
-- No findings. A dated maintenance window is a real range, not sham breadth. Flagging „von … bis …“ here is a regression.
+- No findings. A dated maintenance window is a real range, not sham breadth. Flagging „von … bis …“ here is a regression. 

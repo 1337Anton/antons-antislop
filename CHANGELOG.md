@@ -1,5 +1,10 @@
 # Änderungen
 
+## 2.0.3 (26.10.2026)
+
+- Währung: Zeichen ohne Leerzeichen direkt an die Zahl („40€“, „3$“). Die frühere Vorgabe
+  „40 €“ war falsch. Testfall 21 angepasst.
+
 ## 2.0.2 (25.10.2026)
 
 Alle Testfälle in `evals/cases.md` durchgespielt; die Lücken, an denen Fälle scheiterten, sind

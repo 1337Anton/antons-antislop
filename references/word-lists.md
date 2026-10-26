@@ -176,6 +176,6 @@ Wrong locale conventions warrant P2 where they qualify as defects; mixed convent
 - Percent with a space: „50 %“, not „50%“
 - Decimal comma and dot as thousands separator: „3,2 Sekunden“, „10.000 Nutzer“ – never „3.2“ or „10,000“
 - Dates: „24.08.2026“ or „24. August 2026“ – never „08/24/2026“ or „2026-08-24“ in running prose (ISO stays fine in tables and file names)
-- Currency after the amount: „40 €“, „1,2 Mio. €“
+- Currency directly after the amount, without a space: „40€“, „3$“, „1,2 Mio.€“. „40 €“ with a space is wrong in this house style
 
-**English documents:** the inverse conventions apply (50%, 3.2, 10,000, $40 / €40 before or after per style, Aug 24, 2026). The flag in both languages is the same: two conventions mixed in one document. Compound modifiers keep the hyphen before the noun and drop it after it ("a high-quality report", "the report is high quality"); dictionary compounds such as "third-party" keep it everywhere. Weak alone.
+**English documents:** the inverse conventions apply (50%, 3.2, 10,000, $40 / €40 before or 40€ / 3$ after, never with a space, Aug 24, 2026). The flag in both languages is the same: two conventions mixed in one document. Compound modifiers keep the hyphen before the noun and drop it after it ("a high-quality report", "the report is high quality"); dictionary compounds such as "third-party" keep it everywhere. Weak alone.
