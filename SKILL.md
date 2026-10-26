@@ -13,7 +13,7 @@ dieser Datei sind Anschauungsmaterial, keine Verstöße.
 ## Grundsatz
 
 KI-Slop sitzt auf drei Ebenen. Wer nur Wörter tauscht, erreicht wenig: Schon die Struktur eines
-Textes verrät KI mit über 93 % Trefferquote, und selbst gründliches Umformulieren auf Satzebene
+Textes verrät KI mit über 93% Trefferquote, und selbst gründliches Umformulieren auf Satzebene
 ändert daran kaum etwas (StoryScope-Studie, Russell u. a. 2026). Wortlisten veralten außerdem mit
 jeder Modellgeneration. Deshalb immer alle drei Ebenen prüfen, mit Gewicht auf 2 und 3:
 
@@ -145,8 +145,9 @@ Die häufigsten deutschen Fälle zum Merken:
 - Keine Wortpaare mit Bindestrich als Stilmittel („durchdacht-modern“).
 - Ausrufezeichen höchstens eins pro 1.000 Wörter. Semikolon und Doppelpunkt ruhig nutzen, aber
   den Doppelpunkt nicht als Bühne (siehe Ebene 2).
-- Deutsche Formate: „deutsche Anführungszeichen“, „50 %“ mit Leerzeichen, „3,2 Sekunden“,
-  „10.000 Nutzer“, „24. August 2026“. Währungszeichen ohne Leerzeichen direkt an die Zahl:
+- Deutsche Formate: „deutsche Anführungszeichen“, „50%“ ohne Leerzeichen, „3,2 Sekunden“,
+  „10.000 Nutzer“, „24. August 2026“. Prozent- und Währungszeichen
+  stehen ohne Leerzeichen direkt an der Zahl:
   „40€“, „3$“, „1,2 Mio.€“. Zwei Schreibweisen im selben Dokument sind ein klares
   Muster.
 
@@ -166,8 +167,8 @@ Die häufigsten deutschen Fälle zum Merken:
   angehängte „…, ganz ohne Rätselraten“, die Definition „X ist kein Y, sondern ein Z“. Höchstens
   eine pro Text und nur, wenn die Unterscheidung wirklich etwas leistet. Meist reicht die positive
   Aussage: „externe Marktdaten“ sagt schon, dass es keine internen sind. Bleiben dürfen: die
-  korrigierende Anweisung („Nimm Version 3, nicht 2.“), die korrigierte Zahl („um 40 %, nicht um
-  4 %“) und die Echtheitsaussage („Das Bild ist echt, keine Fälschung.“).
+  korrigierende Anweisung („Nimm Version 3, nicht 2.“), die korrigierte Zahl („um 40%, nicht um
+  4%“) und die Echtheitsaussage („Das Bild ist echt, keine Fälschung.“).
 - **Dreierreihen**: „schnell, einfach und effizient“. KI presst alles in Dreiergruppen. Zwei oder
   vier nehmen, oder einen ganzen Satz bauen. Das gilt auch im Großen: ein Absatz aus drei gleichen
   Beispielen, drei kurze Aussagen mit Moral. Drei nur, wenn der Inhalt wirklich drei Teile hat.
@@ -270,7 +271,7 @@ Stimme (siehe Register).
   offen lassen, nie raten.
 - **Gefühle benennen statt inszenieren**: „Das hat mich geärgert“ statt „Ein Kloß bildete sich in
   meinem Hals“, aber nur, wenn die Quelle Ärger nennt. Körper- und Stimmungsbilder für Gefühle
-  sind das stärkste einzelne Strukturmuster (81 % bei KI gegenüber 38 % bei Menschen).
+  sind das stärkste einzelne Strukturmuster (81% bei KI gegenüber 38% bei Menschen).
 - **Der Tauschtest**: Lassen sich zwei Absätze vertauschen, ohne dass es auffällt, ist es eine
   Liste im Prosakostüm. Einen roten Faden bauen oder ehrlich als Liste setzen.
 - **Der Übertragungstest**: einen Satz unverändert in einen Text über eine andere Firma, ein
@@ -496,8 +497,8 @@ Jeder der folgenden Punkte macht eine Überarbeitung ungültig, egal wie sauber 
   Datum, ein Zitat, eine Reihenfolge oder eine Gleichzeitigkeit verliert, ist gescheitert, außer
   ein Muster verlangt ausdrücklich das Streichen. Die Bedeutung bleibt gleich stark: Eine Ursache
   bleibt Ursache, „dreimal schneller“ wird nicht zu „schneller“, eine Bedingung bleibt Bedingung,
-  eine Verneinung wird weder abgeschwächt noch umgedreht, „73 % der Befragten“ wird nicht zu „die
-  Befragten“, „rund 50 %“ nicht zu „50 %“, jede Spanne behält beide Enden, jeder Listenpunkt
+  eine Verneinung wird weder abgeschwächt noch umgedreht, „73% der Befragten“ wird nicht zu „die
+  Befragten“, „rund 50%“ nicht zu „50%“, jede Spanne behält beide Enden, jeder Listenpunkt
   bleibt, jedes Zitat behält seine Quelle.
 - **Tragende Sprache bleibt.** In Recht, Medizin, Wissenschaft und Sicherheit sind
   Einschränkungen, Verneinungen und Absolutheiten Inhalt („darf nicht“, „kann … verursachen“,

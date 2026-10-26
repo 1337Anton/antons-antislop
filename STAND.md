@@ -14,7 +14,7 @@
 - Strichregel: Eigene und überarbeitete Texte ohne Gedankenstriche. Im Prüfmodus ist ein
   einzelner Halbgeviertstrich in fremdem Text nur ein schwaches Signal, damit die Testfälle in
   `evals/cases.md` (Fälle 1 und 12) gültig bleiben.
-- Währung ohne Leerzeichen: „40€“, „3$“ (seit 26.10.2026, Antons Vorgabe). Prozent bleibt „50 %“.
+- Währung ohne Leerzeichen: „40€“, „3$“, Prozent ebenso „50%“ (seit 26.10.2026, Antons Vorgabe).
 - `references/` und `evals/` sind der englische Originaltext von unslop, nur an der Strichregel
   und um einige deutsche Werbewörter ergänzt.
 

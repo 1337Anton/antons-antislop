@@ -173,7 +173,7 @@ Wrong locale conventions warrant P2 where they qualify as defects; mixed convent
 
 - Quotation marks: „deutsche“ – straight "US quotes" in an otherwise typeset German text are a paste signal (see `pattern-catalog.md`, section 16)
 - Dashes: in check mode a single, correctly spaced en dash („Das klappt – wenn die Daten stimmen.“) is a weak signal only; „Das klappt—wenn die Daten stimmen.“ is a tell. When writing or rewriting, the strict dash rule in `../SKILL.md` applies: no Gedankenstrich at all, use comma, colon, parenthesis or a new sentence („Das klappt, wenn die Daten stimmen.“). Ranges use a hyphen: „9-13 Uhr“.
-- Percent with a space: „50 %“, not „50%“
+- Percent without a space: „50%“, not „50 %“ (house style)
 - Decimal comma and dot as thousands separator: „3,2 Sekunden“, „10.000 Nutzer“ – never „3.2“ or „10,000“
 - Dates: „24.08.2026“ or „24. August 2026“ – never „08/24/2026“ or „2026-08-24“ in running prose (ISO stays fine in tables and file names)
 - Currency directly after the amount, without a space: „40€“, „3$“, „1,2 Mio.€“. „40 €“ with a space is wrong in this house style

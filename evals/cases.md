@@ -176,10 +176,10 @@ EXPECTED:
 ## Case 14 – Load-bearing language (profile: docs) — MUST STAY CLEAN
 
 INPUT:
-> Zugangsdaten dürfen niemals im Frontend-Code gespeichert werden. Das Präparat kann bei einigen Patienten Schwindel verursachen. Die Ausfallquote sank im dritten Quartal um 40 %, nicht um 4 %. Der Parser liest die Datei zeilenweise ein und schlägt fehl, wenn eine Zeile mehr als 4.096 Zeichen hat.
+> Zugangsdaten dürfen niemals im Frontend-Code gespeichert werden. Das Präparat kann bei einigen Patienten Schwindel verursachen. Die Ausfallquote sank im dritten Quartal um 40%, nicht um 4%. Der Parser liest die Datei zeilenweise ein und schlägt fehl, wenn eine Zeile mehr als 4.096 Zeichen hat.
 
 EXPECTED:
-- No findings. The absolute („niemals“), the hedge and scope („kann“, „bei einigen Patienten“), the corrected figure („40 %, nicht 4 %“) and the technical verbs („liest“, „schlägt fehl“) are load-bearing or exempt. Flagging, softening, or strengthening any of them is a regression.
+- No findings. The absolute („niemals“), the hedge and scope („kann“, „bei einigen Patienten“), the corrected figure („40%, nicht 4%“) and the technical verbs („liest“, „schlägt fehl“) are load-bearing or exempt. Flagging, softening, or strengthening any of them is a regression.
 
 ## Case 15 – Protected vocabulary and tail (profile: docs) — MUST STAY CLEAN
 
@@ -239,10 +239,10 @@ EXPECTED:
 ## Case 21 – Clean German microformats (profile: docs) — MUST STAY CLEAN
 
 INPUT:
-> „Version 2“ ging am 24. August 2026 live – nach 3,2 Sekunden war der Export fertig, 10.000 Datensätze waren geladen, und das Team sparte 50 % der Prüfzeit sowie 40€ pro Vorgang.
+> „Version 2“ ging am 24. August 2026 live – nach 3,2 Sekunden war der Export fertig, 10.000 Datensätze waren geladen, und das Team sparte 50% der Prüfzeit sowie 40€ pro Vorgang.
 
 EXPECTED:
-- No findings. Correct German quotation marks, a correctly spaced en dash, decimal comma, thousands separator, percent spacing, date format, and currency directly after the amount must stay clean.
+- No findings. Correct German quotation marks, a correctly spaced en dash, decimal comma, thousands separator, percent sign directly after the number, date format, and currency directly after the amount must stay clean.
 
 ## Case 22 – German special cases cluster (profile: email)
 

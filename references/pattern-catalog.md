@@ -375,8 +375,8 @@ Wrong rewrites from this catalog's own rules, shown so the failure is recognizab
 
 - VORHER: „Der Ausfall wurde durch das Update vom 3. März verursacht.“
 - FALSCH: „Das Update vom 3. März hat den Ausfall beeinflusst.“ (cause weakened)
-- VORHER: „Rund 50 % der Teams nutzen die Vorlage.“
-- FALSCH: „50 % der Teams nutzen die Vorlage.“ (approximation turned into precision)
+- VORHER: „Rund 50% der Teams nutzen die Vorlage.“
+- FALSCH: „50% der Teams nutzen die Vorlage.“ (approximation turned into precision)
 - VORHER: „Das Medikament kann bei einigen Patienten Schwindel verursachen.“
 - FALSCH: „Das Medikament verursacht Schwindel.“ (load-bearing hedge and scope removed)
 - BEFORE: "Users must never store API keys in client-side code."

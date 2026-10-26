@@ -2,8 +2,8 @@
 
 ## 2.0.3 (26.10.2026)
 
-- Währung: Zeichen ohne Leerzeichen direkt an die Zahl („40€“, „3$“). Die frühere Vorgabe
-  „40 €“ war falsch. Testfall 21 angepasst.
+- Währung und Prozent: Zeichen ohne Leerzeichen direkt an die Zahl („40€“, „3$“, „50%“). Die
+  frühere Vorgabe „40 €“ und „50 %“ war falsch. Testfälle angepasst.
 
 ## 2.0.2 (25.10.2026)
 
