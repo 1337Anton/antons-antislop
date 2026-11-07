@@ -1,5 +1,27 @@
 # Änderungen
 
+## 2.0.7 (07.11.2026)
+
+- Gestaltung, nach Antons Rückmeldung zur Verwaltung: Öffnungszeiten nie als Satz oder Kommaliste
+  in einer Zeile („9-13, 15-19“), sondern in Gruppen mit jeder Zeitspanne in eigener Zeile und „Uhr“,
+  wie auf mush-room.net seit dem 04.11.2026. Gilt auch für Tagesköpfe und kleine Kästen.
+
+## 2.0.6 (07.11.2026)
+
+- Gestaltung, nach Antons Rückmeldung zur Seite Kundenbereich der Verwaltung: keine Erklärsätze, die sagen,
+  wie eine Tabelle zu lesen ist; Überschrift, Spaltengruppen und kurze Bezeichnungen tragen das.
+
+## 2.0.5 (04.11.2026)
+
+- Gestaltung, nach Antons Rückmeldung zu mush-room.net: Textblock ohne Absätze auf Websites als Muster; in kurze
+  Absätze teilen, bei mehreren Themen Zwischenüberschriften.
+
+## 2.0.4 (03.11.2026)
+
+- Gestaltung, nach Antons Rückmeldung zu mush-room.net: Schriften der „zweiten Wahl“ von
+  KI-Werkzeugen (unter anderem Bricolage Grotesque), farbiger Statuspunkt mit umbrechendem Text,
+  Aufzählungs-Einleitung mit Satzfetzen unter der H1. Unterstrichene Textlinks als Handlungsaufforderung statt Knöpfen.
+
 ## 2.0.3 (26.10.2026)
 
 - Währung und Prozent: Zeichen ohne Leerzeichen direkt an die Zahl („40€“, „3$“, „50%“). Die
