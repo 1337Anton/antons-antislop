@@ -283,3 +283,23 @@ INPUT:
 
 EXPECTED:
 - No findings. A dated maintenance window is a real range, not sham breadth. Flagging „von … bis …“ here is a regression. 
+
+## Case 26: Usage instructions under a page title (profile: design)
+
+INPUT:
+> Lotta Brenner
+>
+> Wähle unten eine Farbe und tippe auf die Leinwand. Tippst du einen Vogel an, fliegt er auf.
+
+EXPECTED:
+- P1, design: usage instructions as a sentence on the surface. The buttons, the selected state, the cursor or a short demonstration should show this. Recommend deleting the sentence and naming what the design must show instead.
+
+## Case 27: Button labels and a real state message (profile: design), MUST STAY CLEAN
+
+INPUT:
+> [Knopf] Rot  [Knopf] Blau  [Knopf] Gelb
+>
+> Die Leinwand konnte nicht geladen werden.
+
+EXPECTED:
+- No findings. Button labels name the thing, and the second line reports a real error state. Neither explains how to use the page.

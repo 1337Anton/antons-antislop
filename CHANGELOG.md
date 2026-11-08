@@ -1,5 +1,11 @@
 # Änderungen
 
+## 2.0.8 (08.11.2026)
+
+- Gestaltung, nach Antons Rückmeldung zu Kiaras Website: keine Bedienungsanleitung als Satz unter
+  dem Titel („auf den Boden tippen …“). Die Gestaltung zeigt, was man tun kann (Knöpfe mit Bild,
+  Zustand, Mauszeiger, einmal vormachen). Testfälle 26 und 27 dazu.
+
 ## 2.0.7 (07.11.2026)
 
 - Gestaltung, nach Antons Rückmeldung zur Verwaltung: Öffnungszeiten nie als Satz oder Kommaliste

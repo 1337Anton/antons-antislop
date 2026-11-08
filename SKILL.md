@@ -452,6 +452,13 @@ der Inhalt es wirklich verlangt (eine echte Aufzählung von genau drei Dingen, C
 - Keine erfundenen Zahlen, Kunden, Zitate oder Auszeichnungen als Füllmaterial. Platzhalter in
   eckigen Klammern, und die vor der Veröffentlichung füllen oder entfernen.
 - Hell oder dunkel nach Nutzung entscheiden, nicht nach Branche.
+- Keine Bedienungsanleitung als Satz auf der Oberfläche („Futter unten aussuchen und auf den Boden
+  tippen, gern für jeden Hasen eins. Tippst du einen Hasen an, macht er einen Freudensprung.“ unter
+  dem Seitentitel, „Klicke auf eine Karte, um mehr zu erfahren“, „Wische nach links“). Die Gestaltung
+  macht klar, was geht: Knöpfe mit Bild und Wort, ein gewählter Zustand, der Mauszeiger als Werkzeug,
+  ein einmaliges Vormachen beim Laden. Darf bleiben: die Beschriftung eines Knopfs („Karotte“), ein
+  Fehler- oder Zustandstext („Die 3D-Ansicht konnte nicht geladen werden.“), unsichtbare Texte für
+  Screenreader.
 - Keine Erklärsätze unter Tabellen, Diagrammen und Formularen, die sagen, wie man sie liest
   („Netto, Stornos abgezogen. Neukunden sind die Kunden, die …“, „DHL heißt: Die Rechnung hat eine
   Versandzeile …“). Was die Gestaltung zeigen kann, zeigt sie: Überschrift „Umsatz netto“,
