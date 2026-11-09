@@ -150,9 +150,8 @@ Die häufigsten deutschen Fälle zum Merken:
   Komma, Punkt, Klammer oder Doppelpunkt ersetzen.
 - Keine Mittelpunkte (·) als Trenner. Sonst Komma.
 - **Seitentitel** (`<title>`, `document.title`, der Text oben im Browser-Tab neben dem Favicon)
-  trennen in jedem Projekt nur mit Bindestrich und Leerzeichen: „Impressum - mush room“,
-  „Pilze in Heidelberg - Feinkost Müller“. Nie Mittelpunkt, senkrechter Strich (|),
-  Doppelpunkt, Halbgeviert- oder Geviertstrich. Gilt auch für Titel, die Code zusammensetzt,
+  trennen in jedem Projekt nur mit Bindestrich oder senkrechtem Strich, je mit Leerzeichen:
+  „Impressum - mush room“, „Impressum | pourdesk“. Nie Mittelpunkt, Doppelpunkt, Halbgeviert- oder Geviertstrich. Gilt auch für Titel, die Code zusammensetzt,
   für Vorlagen, Tests und App-Hüllen (Capacitor, APK).
 - Keine Pfeile (→) als Satzersatz im Fließtext, keine Emojis als Aufzählungszeichen.
 - Keine Wortpaare mit Bindestrich als Stilmittel („durchdacht-modern“).

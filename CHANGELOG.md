@@ -1,5 +1,9 @@
 # Änderungen
 
+## 2.1.2 (09.11.2026)
+
+- Senkrechter Strich (|) im Seitentitel ist erlaubt (Anton, 09.11.2026).
+
 ## 2.1.1 (09.11.2026)
 
 - Seitentitel im Browser-Tab trennen nur mit „ - “, nie mit ·, |, :, – oder —, in jedem Projekt.

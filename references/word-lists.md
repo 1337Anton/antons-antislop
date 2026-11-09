@@ -84,7 +84,7 @@ Apply the matching rule's severity in `../SKILL.md`; stock-phrase headings do no
 
 **Datenbank-Beschriftungen:** „Minze, Blätter“, „Batch, 1 Liter“, „Pilze, getrocknet“ als Beschriftung für Menschen. So schreiben, wie Leute aus dem Fach es sagen: „Minzblätter“, „1 Liter Batch“, „Trockenpilze“.
 
-**Trenner und Ersatzzeichen:** Mittelpunkt (·) als Trenner in Zeilen, im Seitentitel jeder andere Trenner als „ - “ (·, |, :, –, —), Pfeil (→) als Satzersatz im Fließtext, Wortpaare mit Bindestrich als Stilmittel („durchdacht-modern“, „klar-ehrlich“).
+**Trenner und Ersatzzeichen:** Mittelpunkt (·) als Trenner in Zeilen, im Seitentitel jeder andere Trenner als „ - “ oder „ | “ (·, :, –, —), Pfeil (→) als Satzersatz im Fließtext, Wortpaare mit Bindestrich als Stilmittel („durchdacht-modern“, „klar-ehrlich“).
 
 **Engagement bait (social):** „Und das Beste daran?“, „Der Clou:“, „Spoiler:“, „Plot Twist:“, „Aber der Reihe nach.“, „Doch dann kam alles anders.“, 🧵, Emoji-Bullets (🚀✅💡) vor jeder Zeile, Hashtag-Blöcke ab 3 Tags
 
