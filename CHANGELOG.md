@@ -1,5 +1,23 @@
 # Änderungen
 
+## 2.1.1 (09.11.2026)
+
+- Seitentitel im Browser-Tab trennen nur mit „ - “, nie mit ·, |, :, – oder —, in jedem Projekt.
+  Nach Antons Ansage vom 09.11.2026; alle Projekte unter ~/Projekte am selben Tag umgestellt.
+
+## 2.1.0 (08.11.2026)
+
+- SKILL.md von 622 auf 213 Zeilen gekürzt, ohne Regeln zu streichen. Der Skill lief laut
+  `/skill-doctor` in fast jeder Sitzung mit und war der mit Abstand größte Tokenposten.
+  Anthropic empfiehlt für SKILL.md unter 500 Zeilen.
+- Im Kern bleiben Grundsatz, die zehn Prüfungen, Leitplanken, Modi, Ebene 1 und die
+  Selbstprüfung. Wörtlich ausgelagert nach `references/`: Ebene 2 (`satz-und-rhythmus.md`),
+  Ebene 3 (`aufbau.md`), Register und Folien (`register-und-folien.md`), Gestaltung
+  (`gestaltung.md`), Ablauf, Schweregrade, Ausgabe und Zusammenspiel (`pruefen.md`), Pflege
+  (`pflege.md`). Eine Tabelle am Ende von SKILL.md sagt, wann welche Datei zu lesen ist.
+- Commit-Nachricht und Chat-Antwort aus der Beschreibung genommen: Dafür reichen die Kurzregeln in
+  `~/.claude/CLAUDE.md`, mechanische Fehler fängt der Stop-Hook `~/.claude/hooks/zeichen-pruefen.py`.
+
 ## 2.0.8 (08.11.2026)
 
 - Gestaltung, nach Antons Rückmeldung zu Kiaras Website: keine Bedienungsanleitung als Satz unter
